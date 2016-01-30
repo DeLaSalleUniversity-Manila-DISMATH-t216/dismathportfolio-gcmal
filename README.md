@@ -17,6 +17,7 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Biconditional
 * I was also introduced to use logical equivalences
 * I found this week a bit challenging because I am having a hard time how to use all of these terms.
+
 # Week 2
 *I learned that propositions have subject and predicate.
 *I learned the two types of Quantifiers
@@ -36,6 +37,7 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Simplification
   * Conjunction
   * Resolution
+
 # Week 3
 * I was introduced abouth the different methods of proof
   * Direct Proof
