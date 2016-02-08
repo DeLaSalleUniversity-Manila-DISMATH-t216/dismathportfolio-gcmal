@@ -45,6 +45,13 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Vacuous and Trivial Proof
   * Contradiction
   
+# Week 4
+* I learned proof of Equivalence by showing p → q and q → p are both true.
+* I remembered mathematical induction which was discussed during my Engalg2
+* Mathematical Induction has two steps
+  * Basic Step
+  * Inductive Step
+
 
 
 
