@@ -52,6 +52,9 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Basic Step
   * Inductive Step
 
+* Gabriel Mallari
+* Section EL
+
 
 
 
