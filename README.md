@@ -39,7 +39,7 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Resolution
 
 # Week 3
-* I was introduced abouth the different methods of proof
+* I was introduced about the different methods of proof
   * Direct Proof
   * Contraposition
   * Vacuous and Trivial Proof
@@ -51,6 +51,31 @@ dismathportfolio-gcmal created by Classroom for GitHub
 * Mathematical Induction has two steps
   * Basic Step
   * Inductive Step
+  
+# Week 5
+* I was introduced about the following
+  * Power Series including Geometric Progression and Zeno's Paradox
+  * Program Correctness
+  * Recursive and Inductive definition
+  * Recursive Algorithm
+  * Hoare Triple
+  
+# Week 5
+* I was introduced about sets and cadrdiality
+* We defined functions and I learned that it is also called mappings/transformations
+* We also defined the following
+  * Domain - It is a set of real numbers
+  * Codomain - It is the set of integers
+  * Range - Actual occuring values
+- We also discussed the types of functions and these are the following
+  * One to One function (Injection)
+  * Onto (Subjective)
+  * One to One and Onto (Bijection)
+
+
+
+
+
 
 Gabriel Mallari DISMATH EL
 
