@@ -60,7 +60,7 @@ dismathportfolio-gcmal created by Classroom for GitHub
   * Recursive Algorithm
   * Hoare Triple
   
-# Week 5
+# Week 6
 * I was introduced about sets and cadrdiality
 * We defined functions and I learned that it is also called mappings/transformations
 * We also defined the following
