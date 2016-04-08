@@ -139,6 +139,20 @@ dismathportfolio-gcmal created by Classroom for GitHub
 * Modeling Computation
 * Finite-state machines
 
+# Additional Readings
+* Tree Traversal
+* Spanning tree and minimal spanning tree
+* Relations and binary relations
+* Reflexive relation
+* Symmetric relation
+* Transitive relation
+* n-ary relation
+* Equivalence relation
+* Equivalence class
+* Partial ordering
+* Lexicographic order
+* Lattices
+
 
 
 
